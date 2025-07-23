@@ -27,3 +27,6 @@ github第三个仓库测试
 #确定方向 母<---子,分支选择feature
 
 #剩下的就是提交pull requests , 母程序同意即可
+
+## 总结
+#其实也可以在main中直接修改,改完之后先去到复刻更新,再回到desk,更新main,再提交pull requests,就好了
